@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.e45a9329.css",
+    "main.js": "/react-app/static/js/main.9ed35a71.js",
+    "static/css/195.cda97d49.chunk.css": "/react-app/static/css/195.cda97d49.chunk.css",
+    "static/js/195.4d656a92.chunk.js": "/react-app/static/js/195.4d656a92.chunk.js",
+    "static/css/662.fff84280.chunk.css": "/react-app/static/css/662.fff84280.chunk.css",
+    "static/js/662.84a7e88b.chunk.js": "/react-app/static/js/662.84a7e88b.chunk.js",
+    "static/js/787.cc4e593a.chunk.js": "/react-app/static/js/787.cc4e593a.chunk.js",
+    "static/media/pngwing.com.png": "/react-app/static/media/pngwing.com.d0bade4b5967632182eb.png",
+    "static/media/eric-cantona-3.png": "/react-app/static/media/eric-cantona-3.80399edc1eeaeb1c2816.png",
+    "static/media/miami.jpg": "/react-app/static/media/miami.b86d876e0af029c7d057.jpg",
+    "static/media/Spin.svg": "/react-app/static/media/Spin.b5cb72447aaec8f218be5569d8dab630.svg",
+    "index.html": "/react-app/index.html",
+    "main.e45a9329.css.map": "/react-app/static/css/main.e45a9329.css.map",
+    "main.9ed35a71.js.map": "/react-app/static/js/main.9ed35a71.js.map",
+    "195.cda97d49.chunk.css.map": "/react-app/static/css/195.cda97d49.chunk.css.map",
+    "195.4d656a92.chunk.js.map": "/react-app/static/js/195.4d656a92.chunk.js.map",
+    "662.fff84280.chunk.css.map": "/react-app/static/css/662.fff84280.chunk.css.map",
+    "662.84a7e88b.chunk.js.map": "/react-app/static/js/662.84a7e88b.chunk.js.map",
+    "787.cc4e593a.chunk.js.map": "/react-app/static/js/787.cc4e593a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45a9329.css",
+    "static/js/main.9ed35a71.js"
+  ]
+}
